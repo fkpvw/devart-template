@@ -8,6 +8,8 @@ Growth explores the natural mechanism of growth as a new visual language for cre
 
 The motivation to explore this mechanism is twofold. The resulting forms will bear an obvious resemblance to nature, making it a powerful tool for juxtaposition or reinforcement in depicting our relationship with our environment. It also allows us to infuse communicative elements by designating the placement of sources, unlike more deterministic modeling like [L-system](http://en.wikipedia.org/wiki/L-system "L-system") or more randomised algorithms like [Diffusion-limited aggregation](http://en.wikipedia.org/wiki/Diffusion-limited_aggregation "Diffusion-limited aggregation").
 
+The project will become increasingly defined through time. The actual forms to be created will be closely associated with issues we debate on and with objects we use on an everyday basis. These things will directly relate to the nature of the explored mechanism.
+
 ## Link to Prototype
 For viewers interested in running the sketches in Processing as they come by, please feel free to explore the project_code folder for this entry in Github.
 

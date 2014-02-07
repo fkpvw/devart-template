@@ -4,6 +4,4 @@ My first post will be to program a basic sketch, as a basis to explore more. Her
 
 The sources are indicated in red, and can be seen to influence the growth of the nodes. They are removed if they are too near to the nodes (i.e. smaller than a certain kill distance). Next steps will be exploring how different parameters, different starting nodes and different ways of adding the sources etc... can give us a bit more control.
 
-![Screenshot of initial sketch](../project_images/cover.jpg?raw=true "Screenshot of initial sketch")
-
 https://www.youtube.com/watch?v=ZaJOy4C1bQY
