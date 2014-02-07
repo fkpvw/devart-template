@@ -1,5 +1,4 @@
-# Project Title
-Growth
+# Growth
 
 ## Authors
 - [Fung Kwok Pan](http://www.voidworks.co "Fung Kwok Pan"), https://github.com/fungkwokpan
