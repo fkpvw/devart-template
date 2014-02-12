@@ -81,7 +81,11 @@ void addVeins() {
         //stroke width exploration
         float strokeWidth = (500.0-frameCount)/500.0*2.0;
         strokeWidth = max(strokeWidth,0.01);
-        addVein(nodes.get(i).x,nodes.get(i).y,newX,newY,strokeWidth);
+        if (newX != nodes.get(i).connectedX && newY != nodes.get(i).connectedY) {
+          addVein(nodes.get(i).x,nodes.get(i).y,newX,newY,strokeWidth);
+          nodes.get(i).connectedX = newX;
+          nodes.get(i).connectedY = newY;
+        }
     }
   }
 }

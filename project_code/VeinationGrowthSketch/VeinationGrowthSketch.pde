@@ -7,6 +7,7 @@ float killDistance = 4.0;
 float sourceKillDistance = 4.0;
 float killDistanceSquared;
 float sourceKillDistanceSquared;
+boolean shouldStartSavingFrames;
 
 void setup() {
   size(1000,500);
@@ -38,7 +39,7 @@ void draw() {
   drawSources();
   drawVeins();
   
-  saveFrame("frames/draw-######.png");
+  if (shouldStartSavingFrames) { 
+    saveFrame("frames/draw-######.png");
+  }
 }
-
-
