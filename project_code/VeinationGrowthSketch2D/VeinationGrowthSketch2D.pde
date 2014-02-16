@@ -10,7 +10,7 @@ float sourceKillDistanceSquared;
 boolean shouldStartSavingFrames;
 
 void setup() {
-  size(1000,500);
+  size(1000,500,OPENGL);
   nodes = new ArrayList<Node>();
   sources = new ArrayList<Source>();
   veins = new ArrayList<Vein>();

@@ -4,7 +4,9 @@
 - [Fung Kwok Pan](http://www.voidworks.co "Fung Kwok Pan"), https://github.com/fungkwokpan
 
 ## Description
-Growth explores the natural mechanism of growth as a new visual language for creating forms. The basis for the algorithm can be stated simply as such - nodes grow marginally towards the nearest sources of nutrients. A more elaborate explanation can be found below. I will be using this simple rule to represent images, visualise data via Google Plus and create 3D printed objects. An interactive Android app will also be created for users to explore the mechanism by adding their own sources.
+Growth explores the natural mechanism of growth as a new visual language for creating forms. The basis for the algorithm can be stated simply as such - nodes grow marginally towards the nearest sources of nutrients. A more elaborate explanation can be found below.
+
+I will be using this simple rule to visualise data and 'grow' 3D printed objects, to demonstrate the mechanism as a rich production process. An interactive Android app will also be created for users to explore the mechanism by adding their own sources, as an educational component.
 
 The motivation to explore this mechanism is twofold. The resulting forms will bear an obvious resemblance to nature, making it a powerful tool for juxtaposition or reinforcement in depicting our relationship with our environment. It also allows us to infuse communicative elements by designating the placement of sources, unlike more deterministic modeling like [L-system](http://en.wikipedia.org/wiki/L-system "L-system") or more randomised algorithms like [Diffusion-limited aggregation](http://en.wikipedia.org/wiki/Diffusion-limited_aggregation "Diffusion-limited aggregation").
 
@@ -32,6 +34,8 @@ The philosophical basis of the project is inspired by a book published in 1945 -
 
 ## Images & Videos
 ![Screenshot of initial sketch](project_images/cover.jpg?raw=true "Screenshot of initial sketch")
+
+https://www.youtube.com/watch?v=AmgP3mi2Lk8
 
 https://www.youtube.com/watch?v=ZaJOy4C1bQY
 
