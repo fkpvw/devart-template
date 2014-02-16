@@ -5,9 +5,6 @@
         ],
         "platforms": [
             "Android"
-        ],
-        "toolkits": [
-            "Processing"
         ]
     },
     "themes": [
