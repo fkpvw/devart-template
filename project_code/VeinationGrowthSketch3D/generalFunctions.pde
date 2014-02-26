@@ -1,8 +1,8 @@
 void addSources() {
   //cylinder
-  if (frameCount%12==0 && frameCount<height) {
+  if (frameCount<height) {
     for (int i=0; i<nodesToAddPerFrame; i++) {
-      float r = 200;
+      float r = 50;
       float theta = random(0.0,TWO_PI);
       float x = r*sin(theta);
       float y = frameCount;
@@ -17,7 +17,7 @@ void removeSourcesOnNodeDistance(float _killDistanceSquared) {
       for (int j=nodes.size()-1;j>=0;j--) {
           float dx = sources.get(i).x - nodes.get(j).x;
           float dy = sources.get(i).y - nodes.get(j).y;
-          float dz = sources.get(i).y - nodes.get(j).z;
+          float dz = sources.get(i).z - nodes.get(j).z;
           float nodeToSourceDistance = dx*dx+dy*dy+dz*dz;
           if (nodeToSourceDistance<=_killDistanceSquared) {
               sources.remove(i);
@@ -90,12 +90,14 @@ void addVeins() {
         //stroke width exploration
         //float strokeWidth = (500.0-frameCount)/500.0*2.0;
         //strokeWidth = max(strokeWidth,0.01);
+        /*
         if (newX != nodes.get(i).connectedX && newY != nodes.get(i).connectedY && newZ != nodes.get(i).connectedZ) {
           addVein(nodes.get(i).x,nodes.get(i).y,nodes.get(i).z,newX,newY,newZ,1.0);
           nodes.get(i).connectedX = newX;
           nodes.get(i).connectedY = newY;
           nodes.get(i).connectedZ = newZ;
         }
+        */
     }
   }
 }

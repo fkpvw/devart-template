@@ -35,6 +35,8 @@ The philosophical basis of the project is inspired by a book published in 1945 -
 ## Images & Videos
 ![Screenshot of initial sketch](project_images/cover.jpg?raw=true "Screenshot of initial sketch")
 
+http://www.youtube.com/watch?v=61ATmJsHhRk
+
 https://www.youtube.com/watch?v=AmgP3mi2Lk8
 
 https://www.youtube.com/watch?v=ZaJOy4C1bQY

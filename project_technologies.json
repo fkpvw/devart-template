@@ -5,11 +5,15 @@
         ],
         "platforms": [
             "Android"
+        ],
+        "toolkits": [
+            "toxiclibs"
         ]
     },
     "themes": [
         "Growth",
         "Botany",
-        "Nodes"
+        "Nodes",
+        "3D Printing"
     ]
 }

@@ -1,6 +1,12 @@
 void addNode(float x, float y, float z) {
   Node node = new Node(x,y,z);
   nodes.add(node);
+  if (shouldAddVolumeBrush) {
+    brush.drawAtAbsolutePos(new Vec3D(x,y,z),density);
+    volume.closeSides();  
+    surface.reset();
+    surface.computeSurfaceMesh(mesh,ISO_THRESHOLD);
+  }
 }
 
 void addSource(float x, float y, float z) {
