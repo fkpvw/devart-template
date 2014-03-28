@@ -5,3 +5,4 @@ This will be my second last update, demonstrating the use of the growth mechanis
 The familiar Mona Lisa portrait is used as a starting point to validate the idea, that it will indeed be recognisable. I will extend this with RGB values for my next and last update, in which I will wrap up my thoughts.
 
 http://www.youtube.com/watch?v=NNnKnQ0Rxes
+

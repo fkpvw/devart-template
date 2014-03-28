@@ -13,10 +13,10 @@ class Vein {
     strokeWidth = _strokeWidth;
   }
   
-  void draw() {
+  void draw(color col) {
     //strokeWeight(strokeWidth);
-    strokeWeight(0.5);
-    stroke(255,255);
+    strokeWeight(1.5);
+    stroke(col,255);
     line(x1,y1,x2,y2);
   }
   
