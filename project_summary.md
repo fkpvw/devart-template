@@ -38,8 +38,6 @@ http://www.youtube.com/watch?v=NNnKnQ0Rxes
 
 http://www.youtube.com/watch?v=61ATmJsHhRk
 
-https://www.youtube.com/watch?v=AmgP3mi2Lk8
-
 https://www.youtube.com/watch?v=ZaJOy4C1bQY
 
 ## Schedule
