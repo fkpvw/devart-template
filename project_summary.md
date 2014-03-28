@@ -33,7 +33,6 @@ The primary inspiration for this project comes from a paper I read a few years b
 The philosophical basis of the project is inspired by a book published in 1945 - [On Growth and Form](https://archive.org/details/ongrowthform00thom "On Growth and Form") - written by Thompson, D'Arcy Wentworth.
 
 ## Images & Videos
-![Drawing a Picture with Growth](project_images/cover.png?raw=true "Drawing a Picture with Growth")
 
 http://www.youtube.com/watch?v=NNnKnQ0Rxes
 
