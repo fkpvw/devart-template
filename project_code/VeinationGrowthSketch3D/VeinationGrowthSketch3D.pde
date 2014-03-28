@@ -1,9 +1,17 @@
+import wblut.math.*;
+import wblut.processing.*;
+import wblut.core.*;
+import wblut.*;
+import wblut.hemesh.*;
+import wblut.geom.*;
+
 import toxi.geom.*;
 import toxi.geom.mesh.*;
 import toxi.volume.*;
 import toxi.math.waves.*;
 import toxi.processing.*;
 import toxi.geom.Vec3D;
+
 
 ArrayList <Node> nodes;
 ArrayList <Source> sources;
@@ -14,7 +22,7 @@ float killDistance = 0.5;
 float sourceKillDistance = 0.5;
 float killDistanceSquared;
 float sourceKillDistanceSquared;
-boolean shouldStartSavingFrames=true;
+boolean shouldStartSavingFrames=false;
 
 int DIMX=192;
 int DIMY=336;
