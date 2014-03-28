@@ -34,6 +34,8 @@ The philosophical basis of the project is inspired by a book published in 1945 -
 
 ## Images & Videos
 
+![Pearl](../project_images/pearl.jpg)
+
 http://www.youtube.com/watch?v=H00gdsPht3I
 
 http://www.youtube.com/watch?v=61ATmJsHhRk
