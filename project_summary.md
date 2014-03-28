@@ -40,5 +40,7 @@ http://www.youtube.com/watch?v=61ATmJsHhRk
 
 https://www.youtube.com/watch?v=ZaJOy4C1bQY
 
+https://www.youtube.com/watch?v=Pi20x_vOcAI
+
 ## Schedule
 I aim to have a major update and 2 minor updates per week.
